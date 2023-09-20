@@ -1,0 +1,4665 @@
+/* Каттелан ГЛАВНАЯ */
+
+position: relative;
+width: 1440px;
+height: 5500px;
+
+background: #FFFFFF;
+
+
+/* Desktop 1440 */
+
+position: absolute;
+width: 1440px;
+height: 900px;
+left: 0px;
+top: 5000px;
+
+background: rgba(255, 255, 255, 0.6);
+
+
+/* КАРТОЧКА 4 */
+
+position: absolute;
+visibility: hidden;
+width: 1110px;
+height: 620px;
+left: 165px;
+top: 4029px;
+
+background: #FFFFFF;
+border-radius: 10px;
+
+
+/* Узел #СТБК - 1 является наиболее эффективным бескаркасным решением с точки зрения соотношения трех ключевых факторов: ШУМОПОГЛОЩЕНИЕ/СТОИМОСТЬ/ТОЛЩИНА КОНСТРУКЦИИ. Чистовая отделка допускает разнообразные решение – покраска, обои, панели, декоративные штукатурки. Допускается самостоятельный монтаж. Для данного узла подготовлен подробный набор сопроводительной документации, фото и видео-инструкций. */
+
+position: absolute;
+width: 505px;
+height: 205px;
+left: 585px;
+top: 205px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 140%;
+/* or 17px */
+
+color: #212121;
+
+
+
+/* Rectangle 59 */
+
+position: absolute;
+width: 1110px;
+height: 110px;
+left: 0px;
+top: 498px;
+
+background: linear-gradient(0deg, #FFFFFF, #FFFFFF), #F8F8F8;
+
+
+/* Расчет материалов на 1 м2 */
+
+position: absolute;
+width: 171px;
+height: 32px;
+left: 919px;
+top: 545px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 140%;
+/* or 17px */
+display: flex;
+align-items: center;
+text-align: right;
+
+color: #212121;
+
+
+
+/* Финишное покрытие Гипсокартонные листы влагостойкие (ГКЛВ 9,5 мм) Клей типа “Перлфликс” КНАУФ Гипсоволокнистые листы (ГВЛ 12,5 мм) Дюбель-гвоздь потайной (ДГП 6х60 мм) */
+
+position: absolute;
+width: 270px;
+height: 100px;
+left: 15px;
+top: 505px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 10px;
+line-height: 140%;
+/* or 14px */
+
+color: #212121;
+
+
+
+/* 6. Звукоизоляция #ЖИВИГРОМЧЕ! 800х600х12 мм 7. Виброакустический герметик (ЕВА) */
+
+position: absolute;
+width: 270px;
+height: 100px;
+left: 295px;
+top: 505px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 10px;
+line-height: 140%;
+/* or 14px */
+
+color: #212121;
+
+
+
+/* ВИДЕО */
+
+position: absolute;
+width: 270px;
+height: 32px;
+left: 585px;
+top: 432px;
+
+
+
+/* Rectangle 58 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 270px;
+height: 32px;
+left: 585px;
+top: 432px;
+
+background: #F8F8F8;
+border-radius: 32px;
+
+
+/* Посмотреть видеообзор узла у блогера */
+
+position: absolute;
+width: 220px;
+height: 32px;
+left: 625px;
+top: 432px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 11px;
+line-height: 160%;
+/* or 18px */
+display: flex;
+align-items: center;
+letter-spacing: -0.01em;
+
+color: #6C6C6C;
+
+
+
+/* Ellipse 13 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 585px;
+top: 432px;
+
+background: #FFFFFF;
+border: 1px solid #E26262;
+
+
+/* Polygon 2 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 609px;
+top: 440px;
+
+background: #EE1B24;
+border-radius: 1px;
+transform: rotate(90deg);
+
+
+/* Стоимость узла: от 1 350 ₽/М2 */
+
+position: absolute;
+width: 235px;
+height: 32px;
+left: 855px;
+top: 432px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 11px;
+line-height: 160%;
+/* or 18px */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: -0.01em;
+
+color: #6C6C6C;
+
+
+
+/* UZEL */
+
+position: absolute;
+width: 540px;
+height: 474px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+border-radius: 10px 0px 0px 10px;
+
+
+/* image 12 */
+
+position: absolute;
+width: 540px;
+height: 370px;
+left: 15px;
+top: 104px;
+
+background: url(image);
+
+
+/* Ellipse 14 */
+
+position: absolute;
+width: 10px;
+height: 10px;
+left: 265px;
+top: 450px;
+
+background: #FFFFFF;
+
+
+/* Ellipse 15 */
+
+position: absolute;
+width: 10px;
+height: 10px;
+left: 285px;
+top: 450px;
+
+background: #E31E24;
+
+
+/* Ellipse 16 */
+
+position: absolute;
+width: 10px;
+height: 10px;
+left: 245px;
+top: 450px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 63 */
+
+position: absolute;
+width: 17px;
+height: 24px;
+left: 256px;
+top: 474px;
+
+background: #C4C4C4;
+
+
+/* Button 7 */
+
+position: absolute;
+width: 120px;
+height: 32px;
+left: 970px;
+top: 505px;
+
+
+
+/* Rectangle 6 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 120px;
+height: 32px;
+left: 970px;
+top: 505px;
+
+background: #EE1B24;
+border: 1px solid #FFFFFF;
+border-radius: 4px;
+
+
+/* ИНСТРУКЦИЯ В PDF */
+
+position: absolute;
+width: 120px;
+height: 32px;
+left: 970px;
+top: 505px;
+
+font-family: 'Rodchenko';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 100%;
+/* or 12px */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.25px;
+
+color: #FFFFFF;
+
+
+
+/* 1 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 181px;
+top: 184px;
+
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 181px;
+top: 184px;
+
+background: #E31E24;
+
+
+/* 1 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 181px;
+top: 184px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 9px;
+line-height: 120%;
+/* or 11px */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.02em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* 2 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 248px;
+top: 214px;
+
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 248px;
+top: 214px;
+
+background: #E31E24;
+
+
+/* 2 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 248px;
+top: 214px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 9px;
+line-height: 120%;
+/* or 11px */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.02em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* 3 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 297px;
+top: 164px;
+
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 297px;
+top: 164px;
+
+background: #E31E24;
+
+
+/* 3 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 297px;
+top: 164px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 9px;
+line-height: 120%;
+/* or 11px */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.02em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* 4 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 334px;
+top: 198px;
+
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 334px;
+top: 198px;
+
+background: #E31E24;
+
+
+/* 4 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 334px;
+top: 198px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 9px;
+line-height: 120%;
+/* or 11px */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.02em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* 5 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 351px;
+top: 262px;
+
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 351px;
+top: 262px;
+
+background: #E31E24;
+
+
+/* 5 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 351px;
+top: 262px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 9px;
+line-height: 120%;
+/* or 11px */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.02em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* 6 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 433px;
+top: 237px;
+
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 433px;
+top: 237px;
+
+background: #E31E24;
+
+
+/* 6 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 433px;
+top: 237px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 9px;
+line-height: 120%;
+/* or 11px */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.02em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* 7 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 433px;
+top: 119px;
+
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 433px;
+top: 119px;
+
+background: #E31E24;
+
+
+/* 7 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 433px;
+top: 119px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 9px;
+line-height: 120%;
+/* or 11px */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.02em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* 8 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 490px;
+top: 283px;
+
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 490px;
+top: 283px;
+
+background: #E31E24;
+
+
+/* 7 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 490px;
+top: 283px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 9px;
+line-height: 120%;
+/* or 11px */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.02em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 60 */
+
+position: absolute;
+visibility: hidden;
+width: 183.38px;
+height: 100.15px;
+left: 1051.93px;
+top: -71.19px;
+
+background: #FFF7AA;
+transform: rotate(45deg);
+
+
+/* Rectangle 61 */
+
+position: absolute;
+width: 160px;
+height: 80px;
+left: 0px;
+top: 0px;
+
+background: #EE1B24;
+
+
+/* Rectangle 62 */
+
+position: absolute;
+width: 950px;
+height: 80px;
+left: 160px;
+top: 0px;
+
+background: #F8F8F8;
+
+
+/* УЗЕЛ# СТБК-1 */
+
+position: absolute;
+width: 141px;
+height: 80px;
+left: 20px;
+top: 0px;
+
+font-family: 'Rodchenko';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 100%;
+/* or 12px */
+display: flex;
+align-items: center;
+letter-spacing: 0.3em;
+
+color: #D1D1D1;
+
+
+
+/* БЕСКАРКАСНАЯ СИСТЕМА. ЗВУКОИЗОЛЯЦИЯ СТЕНЫ С ОБЛИЦОВКОЙ ГИПСОКАРТОНОМ. */
+
+position: absolute;
+width: 930px;
+height: 80px;
+left: 190px;
+top: 0px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 22px;
+line-height: 110%;
+/* or 24px */
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+color: #212121;
+
+
+
+/* Group 1 */
+
+position: absolute;
+width: 130px;
+height: 69px;
+left: 585px;
+top: 115px;
+
+
+
+/* 13 dB */
+
+position: absolute;
+width: 130px;
+height: 40px;
+left: 585px;
+top: 115px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 120%;
+/* or 36px */
+letter-spacing: -0.04em;
+
+color: #212121;
+
+
+
+/* Δ Rw ИЗВШ */
+
+position: absolute;
+width: 130px;
+height: 29px;
+left: 585px;
+top: 155px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 7px;
+line-height: 110%;
+/* or 8px */
+letter-spacing: -0.02em;
+text-transform: uppercase;
+
+color: #212121;
+
+
+
+/* Group 2 */
+
+position: absolute;
+width: 130px;
+height: 69px;
+left: 725px;
+top: 115px;
+
+
+
+/* 62 dB */
+
+position: absolute;
+width: 130px;
+height: 40px;
+left: 725px;
+top: 115px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 120%;
+/* or 36px */
+letter-spacing: -0.04em;
+
+color: #212121;
+
+
+
+/* ИЗВШ в конструкции с железобетонной стеной 140 мм */
+
+position: absolute;
+width: 130px;
+height: 29px;
+left: 725px;
+top: 155px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 7px;
+line-height: 110%;
+/* or 8px */
+letter-spacing: -0.02em;
+text-transform: uppercase;
+
+color: #212121;
+
+
+
+/* Group 3 */
+
+position: absolute;
+width: 130px;
+height: 69px;
+left: 875px;
+top: 115px;
+
+
+
+/* 34 mm */
+
+position: absolute;
+width: 130px;
+height: 40px;
+left: 875px;
+top: 115px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 120%;
+/* or 36px */
+letter-spacing: -0.04em;
+
+color: #212121;
+
+
+
+/* толщина звукоизоляционного слоя */
+
+position: absolute;
+width: 130px;
+height: 29px;
+left: 875px;
+top: 155px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 7px;
+line-height: 110%;
+/* or 8px */
+letter-spacing: -0.02em;
+text-transform: uppercase;
+
+color: #212121;
+
+
+
+/* Главный блок */
+
+position: absolute;
+width: 1440px;
+height: 830px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+
+
+/* image 53 */
+
+position: absolute;
+width: 1920px;
+height: 937px;
+left: 0px;
+top: -30px;
+
+background: url(image.png);
+
+
+/* Rectangle 24 */
+
+position: absolute;
+width: 1440px;
+height: 830px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(287.15deg, #FFC9F3 0%, #000000 0.01%, #000000 100%);
+opacity: 0.2;
+
+
+/* LANCER Keramik */
+
+position: absolute;
+width: 1110px;
+height: 228px;
+left: 165px;
+top: 300px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 120px;
+line-height: 90%;
+/* or 108px */
+letter-spacing: 0.04em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* The Lancer family of modern design tables boasts a sculptural, majestic and unparalleled style. What makes Lancer a unique and precious model is the base with a strong architectural value, enlivened by a punchy graphic sign. */
+
+position: absolute;
+width: 540px;
+height: 73px;
+left: 165px;
+top: 550px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 160%;
+/* or 22px */
+
+color: #FFFFFF;
+
+
+
+/* Button 4 */
+
+position: absolute;
+width: 150px;
+height: 42px;
+left: 165px;
+top: 660px;
+
+
+
+/* Rectangle 6 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 150px;
+height: 42px;
+left: 165px;
+top: 660px;
+
+border: 1px solid #FFFFFF;
+
+
+/* Подробнее */
+
+position: absolute;
+width: 150px;
+height: 42px;
+left: 165px;
+top: 660px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 100%;
+/* or 14px */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.25px;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 71 */
+
+position: absolute;
+width: 40px;
+height: 6px;
+left: 700px;
+top: 775px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 72 */
+
+position: absolute;
+width: 40px;
+height: 6px;
+left: 750px;
+top: 775px;
+
+background: #D9D9D9;
+
+
+/* Rectangle 73 */
+
+position: absolute;
+width: 40px;
+height: 6px;
+left: 650px;
+top: 775px;
+
+background: #D9D9D9;
+
+
+/* ГМ */
+
+position: absolute;
+width: 1440px;
+height: 70px;
+left: 0px;
+top: 0px;
+
+
+
+/* Rectangle 24 */
+
+position: absolute;
+width: 1440px;
+height: 70px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+
+
+/* Коллекции Блог Скачать О нас Контакты */
+
+position: absolute;
+width: 755px;
+height: 70px;
+left: 390px;
+top: 0px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 140%;
+/* or 20px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #212121;
+
+
+
+/* +7 (985) 342-02-25 Ежедневно с 9:00 до 21:00 */
+
+position: absolute;
+width: 179px;
+height: 70px;
+left: 1111px;
+top: 0px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 150%;
+/* or 22px */
+display: flex;
+align-items: center;
+text-align: right;
+
+color: #212121;
+
+
+
+/* image 14 */
+
+position: absolute;
+visibility: hidden;
+width: 183.18px;
+height: 36px;
+left: 92px;
+top: 27px;
+
+background: url(image);
+
+
+/* Ellipse 17 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 38px;
+height: 38px;
+left: 1302px;
+top: 16px;
+
+border: 1px solid #DADADA;
+
+
+/* clarity:phone-handset-solid */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: 1321px;
+top: 25.1px;
+
+opacity: 0.3;
+transform: rotate(45deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 70.51%;
+right: -65.11%;
+top: 4.38%;
+bottom: 2.98%;
+
+background: #212121;
+transform: rotate(45deg);
+
+
+/* Button Каталог */
+
+position: absolute;
+width: 120px;
+height: 38px;
+left: 240px;
+top: 16px;
+
+
+
+/* Rectangle 6 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 120px;
+height: 38px;
+left: 240px;
+top: 16px;
+
+border: 1px solid #DADADA;
+border-radius: 1px;
+
+
+/* Каталог */
+
+position: absolute;
+width: 85px;
+height: 38px;
+left: 275px;
+top: 16px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 100%;
+/* or 14px */
+display: flex;
+align-items: center;
+letter-spacing: 0.25px;
+
+color: #212121;
+
+
+
+/* ci:hamburger */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 255px;
+top: 27px;
+
+border-radius: 1px;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 25%;
+bottom: 25%;
+
+background: #000000;
+
+
+/* Logo new Cattelan 1 */
+
+position: absolute;
+width: 100px;
+height: 34.44px;
+left: 100px;
+top: 18px;
+
+background: url(Logo new Cattelan);
+
+
+/* КОНТАКТЫ */
+
+position: absolute;
+width: 1126px;
+height: 156px;
+left: 149px;
+top: 9773px;
+
+
+
+/* Rectangle 44 */
+
+position: absolute;
+width: 1110px;
+height: 1px;
+left: 165px;
+top: 9773px;
+
+background: #F0F0F0;
+
+
+/* Все права защищены. При использовании материалов — ссылка обязательна. Общество с Ограниченной Ответственностью «СЕЛЕНА». ИНН 7729715514. Политика компании в отношении персональных данных Соглашение на обработку персональных данных */
+
+position: absolute;
+width: 445px;
+height: 106px;
+left: 830px;
+top: 9823px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 11px;
+line-height: 140%;
+/* or 15px */
+
+color: #999999;
+
+
+
+/* Компания ООО «СЕЛЕНА» (бренд “СОЛНЦЕ”) — официальный дистрибьютор Steico GmbH и CoolMachines на территории России Адрес: Москва, ул. Адмирала Макарова, д. 8, стр. 1 Телефон: +7 (495) 380-10-62 Email: solntse@solntse.ru www.solntse.ru */
+
+position: absolute;
+width: 445px;
+height: 106px;
+left: 355px;
+top: 9823px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 11px;
+line-height: 140%;
+/* or 15px */
+
+color: #999999;
+
+
+
+/* image 22 */
+
+position: absolute;
+width: 150px;
+height: 104px;
+left: 149px;
+top: 9815px;
+
+background: url(image);
+
+
+/* ПАРАМЕТРЫ */
+
+position: absolute;
+visibility: hidden;
+width: 1110px;
+height: 669px;
+left: 165px;
+top: 2750px;
+
+background: #FFFFFF;
+border-radius: 10px;
+
+
+/* Подбор по параметрам */
+
+position: absolute;
+width: 1110px;
+height: 84px;
+left: 0px;
+top: 70px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 56px;
+line-height: 120%;
+/* or 67px */
+text-align: center;
+
+color: #212121;
+
+
+
+/* 1 / 3 — Укажите тип помещения: */
+
+position: absolute;
+width: 1110px;
+height: 28px;
+left: 0px;
+top: 170px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 120%;
+/* or 17px */
+text-align: center;
+
+color: #212121;
+
+
+
+/* 2 / 3 — Укажите тип поверхности: */
+
+position: absolute;
+width: 1110px;
+height: 28px;
+left: 0px;
+top: 320px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 120%;
+/* or 17px */
+text-align: center;
+
+color: #212121;
+
+
+
+/* Button 5 */
+
+position: absolute;
+width: 110px;
+height: 42px;
+left: 545px;
+top: 210px;
+
+
+
+/* Rectangle 6 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 110px;
+height: 42px;
+left: 545px;
+top: 210px;
+
+border: 1px solid #C4C4C4;
+border-radius: 4px;
+
+
+/* Квартира */
+
+position: absolute;
+width: 110px;
+height: 42px;
+left: 545px;
+top: 210px;
+
+font-family: 'Rodchenko';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+/* or 16px */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.25px;
+
+color: #9C9C9C;
+
+
+
+/* bx:bxs-cart */
+
+position: absolute;
+visibility: hidden;
+width: 10.7px;
+height: 18px;
+left: 635.38px;
+top: 222px;
+
+border-radius: 4px;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 12.5%;
+bottom: 29.17%;
+
+background: #C4C4C4;
+
+
+/* Vector */
+
+position: absolute;
+left: 37.5%;
+right: 50%;
+top: 75%;
+bottom: 12.5%;
+
+background: #C4C4C4;
+
+
+/* Vector */
+
+position: absolute;
+left: 66.67%;
+right: 20.83%;
+top: 75%;
+bottom: 12.5%;
+
+background: #C4C4C4;
+
+
+/* Button 7 */
+
+position: absolute;
+width: 110px;
+height: 42px;
+left: 675px;
+top: 210px;
+
+
+
+/* Rectangle 6 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 110px;
+height: 42px;
+left: 675px;
+top: 210px;
+
+border: 1px solid #C4C4C4;
+border-radius: 4px;
+
+
+/* Офис */
+
+position: absolute;
+width: 110px;
+height: 42px;
+left: 675px;
+top: 210px;
+
+font-family: 'Rodchenko';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+/* or 16px */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.25px;
+
+color: #9C9C9C;
+
+
+
+/* bx:bxs-cart */
+
+position: absolute;
+visibility: hidden;
+width: 10.7px;
+height: 18px;
+left: 765.38px;
+top: 222px;
+
+border-radius: 4px;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 12.5%;
+bottom: 29.17%;
+
+background: #C4C4C4;
+
+
+/* Vector */
+
+position: absolute;
+left: 37.5%;
+right: 50%;
+top: 75%;
+bottom: 12.5%;
+
+background: #C4C4C4;
+
+
+/* Vector */
+
+position: absolute;
+left: 66.67%;
+right: 20.83%;
+top: 75%;
+bottom: 12.5%;
+
+background: #C4C4C4;
+
+
+/* ПЕРЕГОРОДКА */
+
+position: absolute;
+width: 160px;
+height: 90px;
+left: 790px;
+top: 360px;
+
+
+
+/* image 13 */
+
+position: absolute;
+width: 160px;
+height: 90px;
+left: 790px;
+top: 360px;
+
+background: url(image);
+opacity: 0.7;
+border-radius: 4px;
+
+
+/* Rectangle 6 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 160px;
+height: 90px;
+left: 790px;
+top: 360px;
+
+border-radius: 4px;
+
+
+/* Перегородка */
+
+position: absolute;
+width: 160px;
+height: 90px;
+left: 790px;
+top: 360px;
+
+font-family: 'Rodchenko';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+/* or 16px */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.25px;
+
+color: #FFFFFF;
+
+
+
+/* bx:bxs-cart */
+
+position: absolute;
+visibility: hidden;
+width: 15.57px;
+height: 38.57px;
+left: 921.46px;
+top: 385.71px;
+
+border-radius: 4px;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 12.5%;
+bottom: 29.17%;
+
+background: #C4C4C4;
+
+
+/* Vector */
+
+position: absolute;
+left: 37.5%;
+right: 50%;
+top: 75%;
+bottom: 12.5%;
+
+background: #C4C4C4;
+
+
+/* Vector */
+
+position: absolute;
+left: 66.67%;
+right: 20.83%;
+top: 75%;
+bottom: 12.5%;
+
+background: #C4C4C4;
+
+
+/* ПОЛ */
+
+position: absolute;
+width: 160px;
+height: 90px;
+left: 410px;
+top: 360px;
+
+
+
+/* image 13 */
+
+position: absolute;
+width: 160px;
+height: 90px;
+left: 410px;
+top: 360px;
+
+background: url(image);
+opacity: 0.7;
+border-radius: 4px;
+
+
+/* Rectangle 6 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 160px;
+height: 90px;
+left: 410px;
+top: 360px;
+
+border-radius: 4px;
+
+
+/* Пол */
+
+position: absolute;
+width: 160px;
+height: 90px;
+left: 410px;
+top: 360px;
+
+font-family: 'Rodchenko';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+/* or 16px */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.25px;
+
+color: #FFFFFF;
+
+
+
+/* bx:bxs-cart */
+
+position: absolute;
+visibility: hidden;
+width: 15.57px;
+height: 38.57px;
+left: 541.46px;
+top: 385.71px;
+
+border-radius: 4px;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 12.5%;
+bottom: 29.17%;
+
+background: #C4C4C4;
+
+
+/* Vector */
+
+position: absolute;
+left: 37.5%;
+right: 50%;
+top: 75%;
+bottom: 12.5%;
+
+background: #C4C4C4;
+
+
+/* Vector */
+
+position: absolute;
+left: 66.67%;
+right: 20.83%;
+top: 75%;
+bottom: 12.5%;
+
+background: #C4C4C4;
+
+
+/* ПОТОЛОК */
+
+position: absolute;
+width: 160px;
+height: 90px;
+left: 220px;
+top: 360px;
+
+
+
+/* image 13 */
+
+position: absolute;
+width: 160px;
+height: 90px;
+left: 220px;
+top: 360px;
+
+background: url(image);
+opacity: 0.7;
+border-radius: 4px;
+
+
+/* Rectangle 6 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 160px;
+height: 90px;
+left: 220px;
+top: 360px;
+
+border-radius: 4px;
+
+
+/* Потолок */
+
+position: absolute;
+width: 160px;
+height: 90px;
+left: 220px;
+top: 360px;
+
+font-family: 'Rodchenko';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+/* or 16px */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.25px;
+
+color: #FFFFFF;
+
+
+
+/* bx:bxs-cart */
+
+position: absolute;
+visibility: hidden;
+width: 15.57px;
+height: 38.57px;
+left: 351.46px;
+top: 385.71px;
+
+border-radius: 4px;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 12.5%;
+bottom: 29.17%;
+
+background: #C4C4C4;
+
+
+/* Vector */
+
+position: absolute;
+left: 37.5%;
+right: 50%;
+top: 75%;
+bottom: 12.5%;
+
+background: #C4C4C4;
+
+
+/* Vector */
+
+position: absolute;
+left: 66.67%;
+right: 20.83%;
+top: 75%;
+bottom: 12.5%;
+
+background: #C4C4C4;
+
+
+/* СТЕНА */
+
+position: absolute;
+width: 160px;
+height: 90px;
+left: 600px;
+top: 360px;
+
+
+
+/* Rectangle 6 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 160px;
+height: 90px;
+left: 600px;
+top: 360px;
+
+background: #FFFFFF;
+border: 1px solid #EE1B24;
+border-radius: 4px;
+
+
+/* image 13 */
+
+position: absolute;
+width: 160px;
+height: 90px;
+left: 600px;
+top: 360px;
+
+background: url(image);
+border-radius: 4px;
+
+
+/* Стена */
+
+position: absolute;
+width: 160px;
+height: 90px;
+left: 600px;
+top: 360px;
+
+font-family: 'Rodchenko';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+/* or 16px */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.25px;
+
+color: #FFFFFF;
+
+
+
+/* bx:bxs-cart */
+
+position: absolute;
+visibility: hidden;
+width: 15.57px;
+height: 38.57px;
+left: 731.46px;
+top: 385.71px;
+
+border-radius: 4px;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 12.5%;
+bottom: 29.17%;
+
+background: #C4C4C4;
+
+
+/* Vector */
+
+position: absolute;
+left: 37.5%;
+right: 50%;
+top: 75%;
+bottom: 12.5%;
+
+background: #C4C4C4;
+
+
+/* Vector */
+
+position: absolute;
+left: 66.67%;
+right: 20.83%;
+top: 75%;
+bottom: 12.5%;
+
+background: #C4C4C4;
+
+
+/* Button 6 */
+
+position: absolute;
+width: 140px;
+height: 42px;
+left: 385px;
+top: 210px;
+
+
+
+/* Rectangle 6 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 140px;
+height: 42px;
+left: 385px;
+top: 210px;
+
+background: #EE1B24;
+border-radius: 4px;
+
+
+/* Загородный дом */
+
+position: absolute;
+width: 140px;
+height: 42px;
+left: 385px;
+top: 210px;
+
+font-family: 'Rodchenko';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+/* or 16px */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.25px;
+
+color: #FFFFFF;
+
+
+
+/* bx:bxs-cart */
+
+position: absolute;
+visibility: hidden;
+width: 16.8px;
+height: 24px;
+left: 513.8px;
+top: 219px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 12.5%;
+bottom: 29.17%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 37.5%;
+right: 50%;
+top: 75%;
+bottom: 12.5%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 66.67%;
+right: 20.83%;
+top: 75%;
+bottom: 12.5%;
+
+background: #FFFFFF;
+
+
+/* РЕШЕНИЯ */
+
+position: absolute;
+visibility: hidden;
+width: 1110px;
+height: 952px;
+left: 165px;
+top: 1690px;
+
+
+
+/* Готовые решения */
+
+position: absolute;
+width: 1110px;
+height: 116px;
+left: 165px;
+top: 1690px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 56px;
+line-height: 100%;
+/* or 56px */
+text-align: center;
+
+color: #212121;
+
+
+
+/* ПОЛ */
+
+position: absolute;
+width: 540px;
+height: 382px;
+left: 165px;
+top: 1830px;
+
+
+
+/* Frame 3 */
+
+position: absolute;
+width: 540px;
+height: 301px;
+left: 165px;
+top: 1830px;
+
+border-radius: 8px;
+
+
+/* Rectangle 56 */
+
+position: absolute;
+width: 540px;
+height: 300px;
+left: 0px;
+top: 1px;
+
+background: #FFFFFF;
+border-radius: 8px;
+
+
+/* image 29 */
+
+position: absolute;
+width: 540px;
+height: 301px;
+left: 0px;
+top: 0px;
+
+background: url(image);
+
+
+/* ПОЛ */
+
+position: absolute;
+width: 520px;
+height: 61px;
+left: 20px;
+top: 231px;
+
+font-family: 'Rodchenko';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 130%;
+/* or 65px */
+
+color: #FFFFFF;
+
+
+
+/* Решения под бетонную и сухую стяжку, вместо бетонной стяжки и под чистовой пол. */
+
+position: absolute;
+width: 540px;
+height: 61px;
+left: 165px;
+top: 2151px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 130%;
+/* or 18px */
+
+color: #888888;
+
+
+
+/* СТЕНА */
+
+position: absolute;
+width: 540px;
+height: 382px;
+left: 735px;
+top: 1830px;
+
+
+
+/* Frame 3 */
+
+position: absolute;
+width: 540px;
+height: 301px;
+left: 735px;
+top: 1830px;
+
+border-radius: 8px;
+
+
+/* Rectangle 56 */
+
+position: absolute;
+width: 540px;
+height: 300px;
+left: 0px;
+top: 1px;
+
+background: #FFFFFF;
+border-radius: 8px;
+
+
+/* image 29 */
+
+position: absolute;
+width: 540px;
+height: 301px;
+left: 0px;
+top: 0px;
+
+background: url(image);
+
+
+/* СТЕНА */
+
+position: absolute;
+width: 520px;
+height: 61px;
+left: 20px;
+top: 231px;
+
+font-family: 'Rodchenko';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 130%;
+/* or 65px */
+
+color: #FFFFFF;
+
+
+
+/* Решения под бетонную и сухую стяжку, вместо бетонной стяжки и под чистовой пол. */
+
+position: absolute;
+width: 540px;
+height: 61px;
+left: 735px;
+top: 2151px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 130%;
+/* or 18px */
+
+color: #888888;
+
+
+
+/* ПЕРЕГОРОДКА */
+
+position: absolute;
+width: 540px;
+height: 382px;
+left: 165px;
+top: 2260px;
+
+
+
+/* Frame 3 */
+
+position: absolute;
+width: 540px;
+height: 301px;
+left: 165px;
+top: 2260px;
+
+border-radius: 8px;
+
+
+/* Rectangle 56 */
+
+position: absolute;
+width: 540px;
+height: 300px;
+left: 0px;
+top: 1px;
+
+background: #FFFFFF;
+border-radius: 8px;
+
+
+/* image 29 */
+
+position: absolute;
+width: 540px;
+height: 301px;
+left: 0px;
+top: 0px;
+
+background: url(image);
+
+
+/* ПЕРЕГОРОДКА */
+
+position: absolute;
+width: 520px;
+height: 61px;
+left: 20px;
+top: 231px;
+
+font-family: 'Rodchenko';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 130%;
+/* or 65px */
+
+color: #FFFFFF;
+
+
+
+/* Решения под бетонную и сухую стяжку, вместо бетонной стяжки и под чистовой пол. */
+
+position: absolute;
+width: 540px;
+height: 61px;
+left: 165px;
+top: 2581px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 130%;
+/* or 18px */
+
+color: #888888;
+
+
+
+/* ПОТОЛОК */
+
+position: absolute;
+width: 540px;
+height: 382px;
+left: 735px;
+top: 2260px;
+
+
+
+/* Frame 3 */
+
+position: absolute;
+width: 540px;
+height: 301px;
+left: 735px;
+top: 2260px;
+
+border-radius: 8px;
+
+
+/* Rectangle 56 */
+
+position: absolute;
+width: 540px;
+height: 300px;
+left: 0px;
+top: 1px;
+
+background: #FFFFFF;
+border-radius: 8px;
+
+
+/* image 29 */
+
+position: absolute;
+width: 540px;
+height: 301px;
+left: 0px;
+top: 0px;
+
+background: url(image);
+
+
+/* ПОТОЛОК */
+
+position: absolute;
+width: 520px;
+height: 61px;
+left: 20px;
+top: 231px;
+
+font-family: 'Rodchenko';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 130%;
+/* or 65px */
+
+color: #FFFFFF;
+
+
+
+/* Решения под бетонную и сухую стяжку, вместо бетонной стяжки и под чистовой пол. */
+
+position: absolute;
+width: 540px;
+height: 61px;
+left: 735px;
+top: 2581px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 130%;
+/* or 18px */
+
+color: #888888;
+
+
+
+/* А ВЫ ЗНАЕТЕ */
+
+position: absolute;
+visibility: hidden;
+width: 1440px;
+height: 670px;
+left: 0px;
+top: 2790px;
+
+
+
+/* Rectangle 70 */
+
+position: absolute;
+width: 1440px;
+height: 670px;
+left: 0px;
+top: 2790px;
+
+background: #F8F8F8;
+
+
+/* а вы знаете, что: */
+
+position: absolute;
+width: 1110px;
+height: 76px;
+left: 165px;
+top: 2910px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 56px;
+line-height: 120%;
+/* or 67px */
+text-align: center;
+text-transform: uppercase;
+
+color: #212121;
+
+
+
+/* ЗВУКОИЗОЛЯЦИЯ НАИБОЛЕЕ ЭФФЕКТИВНА, КОГДА КОНСТРУКЦИИ СТЕН, ПОЛА, ПОТОЛКА или перегородки СОСТОЯТ ИЗ СОЧЕТАЮЩИХСЯ ИЛИ ЧЕРЕДУЮЩИХСЯ В ОПРЕДЕЛЕННОЙ ПОСЛЕДОВАТЕЛЬНОСТИ СЛОЕВ ЗВУКООТРАЖАЮЩИХ И ЗВУКОПОГЛОЩАЮЩИХ МАТЕРИАЛОВ. */
+
+position: absolute;
+width: 1110px;
+height: 92px;
+left: 165px;
+top: 3030px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 22px;
+line-height: 135%;
+/* or 30px */
+text-align: center;
+text-transform: uppercase;
+
+color: #212121;
+
+
+
+/* ВАЖНО: ОДИН ЛИСТ ГИПСОКАРТОНА (или любого другого листового материала) В СОЧЕТАНИИ С ОДНИМ ЛИСТОМ ПЛИТЫ ИЗ ДРЕВЕСНОГО ВОЛОКНА ОБЛАДАЮТ ГОРАЗДО ЛУЧШИМ ЗВУКОИЗОЛИРУЮЩИМ ЭФФЕКТОМ ПО СРАВНЕНИЮ С ТОЛЬКО ДВУМЯ ЛИСТАМИ ГИПСОКАРТОНА ИЛИ ДВУМЯ ЛИСТАМИ ДРЕВЕСНОВОЛОКНИСТОЙ ПЛИТ. */
+
+position: absolute;
+width: 825px;
+height: 180px;
+left: 450px;
+top: 3180px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 300;
+font-size: 15px;
+line-height: 150%;
+/* or 22px */
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+color: #212121;
+
+
+
+/* Button 5 */
+
+position: absolute;
+visibility: hidden;
+width: 140px;
+height: 42px;
+left: 660px;
+top: 3360px;
+
+
+
+/* Rectangle 6 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 140px;
+height: 42px;
+left: 660px;
+top: 3360px;
+
+background: #EE1B24;
+border-radius: 4px;
+
+
+/* О материале */
+
+position: absolute;
+width: 140px;
+height: 42px;
+left: 660px;
+top: 3360px;
+
+font-family: 'Rodchenko';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+/* or 16px */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.25px;
+
+color: #FFFFFF;
+
+
+
+/* bx:bxs-cart */
+
+position: absolute;
+visibility: hidden;
+width: 16.8px;
+height: 24px;
+left: 788.8px;
+top: 3369px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 12.5%;
+bottom: 29.17%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 37.5%;
+right: 50%;
+top: 75%;
+bottom: 12.5%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 66.67%;
+right: 20.83%;
+top: 75%;
+bottom: 12.5%;
+
+background: #FFFFFF;
+
+
+/* Frame 4 */
+
+position: absolute;
+width: 255px;
+height: 180px;
+left: 165px;
+top: 3180px;
+
+background: #FFFFFF;
+border-radius: 10px;
+
+
+/* image 43 */
+
+position: absolute;
+width: 720px;
+height: 480px;
+left: -192px;
+top: -162px;
+
+background: url(image);
+
+
+/* ЖУРНАЛ */
+
+position: absolute;
+visibility: hidden;
+width: 1440px;
+height: 2182px;
+left: 0px;
+top: 3630px;
+
+
+
+/* Профессионалы рекомендуют */
+
+position: absolute;
+width: 1110px;
+height: 123px;
+left: 165px;
+top: 3950px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 56px;
+line-height: 100%;
+/* or 56px */
+text-align: center;
+
+color: #212121;
+
+
+
+/* БРОШЮРА Большая брошюра (PDF, 8 Мб) */
+
+position: absolute;
+visibility: hidden;
+width: 350px;
+height: 55px;
+left: 165px;
+top: 5380px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 10px;
+line-height: 140%;
+/* or 14px */
+text-transform: uppercase;
+
+color: #7C5015;
+
+
+
+/* БРОШЮРА Малая брошюра (PDF, 10 Мб) */
+
+position: absolute;
+visibility: hidden;
+width: 350px;
+height: 55px;
+left: 165px;
+top: 5435px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 10px;
+line-height: 140%;
+/* or 14px */
+text-transform: uppercase;
+
+color: #7C5015;
+
+
+
+/* БРОШЮРА Вопросы и ответы (PDF, 4 Мб) */
+
+position: absolute;
+visibility: hidden;
+width: 350px;
+height: 55px;
+left: 165px;
+top: 5490px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 10px;
+line-height: 140%;
+/* or 14px */
+text-transform: uppercase;
+
+color: #7C5015;
+
+
+
+/* ИНСТРУКЦИЯ Инструкция по монтажу (PDF, 8 Мб) */
+
+position: absolute;
+visibility: hidden;
+width: 350px;
+height: 55px;
+left: 545px;
+top: 5380px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 10px;
+line-height: 140%;
+/* or 14px */
+text-transform: uppercase;
+
+color: #7C5015;
+
+
+
+/* ИНСТРУКЦИЯ Конструкции и акустика (PDF, 300 Кб) */
+
+position: absolute;
+visibility: hidden;
+width: 350px;
+height: 55px;
+left: 545px;
+top: 5435px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 10px;
+line-height: 140%;
+/* or 14px */
+text-transform: uppercase;
+
+color: #7C5015;
+
+
+
+/* ИНСТРУКЦИЯ Технические характеристики (PDF, 6 Мб) */
+
+position: absolute;
+visibility: hidden;
+width: 350px;
+height: 55px;
+left: 545px;
+top: 5490px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 10px;
+line-height: 140%;
+/* or 14px */
+text-transform: uppercase;
+
+color: #7C5015;
+
+
+
+/* Буклеты и инструкции */
+
+position: absolute;
+visibility: hidden;
+width: 1110px;
+height: 123px;
+left: 165px;
+top: 5270px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 58px;
+line-height: 110%;
+/* or 64px */
+letter-spacing: -0.02em;
+
+color: #372C1C;
+
+
+
+/* блог о хвойной звукоизоляции */
+
+position: absolute;
+width: 1110px;
+height: 276px;
+left: 165px;
+top: 3630px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 100%;
+/* or 50px */
+text-align: center;
+text-transform: uppercase;
+
+color: #212121;
+
+
+
+/* журнал СEMWOOD */
+
+position: absolute;
+visibility: hidden;
+width: 1110px;
+height: 276px;
+left: 165px;
+top: 3650px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 115px;
+line-height: 90%;
+/* or 103px */
+text-transform: uppercase;
+
+color: #372C1C;
+
+opacity: 0.5;
+
+
+/* ФОТО ГАЛЕРЕЯ */
+
+position: absolute;
+width: 350px;
+height: 326px;
+left: 165px;
+top: 4070px;
+
+
+
+/* Rectangle 42 */
+
+position: absolute;
+width: 350px;
+height: 250px;
+left: 165px;
+top: 4070px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 40px rgba(151, 151, 151, 0.25);
+border-radius: 6px;
+
+
+/* image 17 */
+
+position: absolute;
+visibility: hidden;
+width: 350px;
+height: 250px;
+left: 165px;
+top: 4070px;
+
+background: url(image.png);
+border-radius: 6px;
+
+
+/* image 24 */
+
+position: absolute;
+width: 350px;
+height: 250px;
+left: 165px;
+top: 4070px;
+
+background: url(image);
+opacity: 0.8;
+border-radius: 8px;
+
+
+/* Ellipse 6 */
+
+position: absolute;
+width: 90px;
+height: 90px;
+left: 295px;
+top: 4150px;
+
+background: #FFFFFF;
+
+
+/* Polygon 1 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 360px;
+top: 4175px;
+
+background: #EE1B24;
+transform: rotate(90deg);
+
+
+/* Видео Тестирование материала известным строительным блогером */
+
+position: absolute;
+width: 350px;
+height: 56px;
+left: 165px;
+top: 4340px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 10px;
+line-height: 140%;
+/* or 14px */
+text-transform: uppercase;
+
+color: #EE1B24;
+
+
+
+/* Фото */
+
+position: absolute;
+width: 730px;
+height: 123px;
+left: 165px;
+top: 5200px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 56px;
+line-height: 110%;
+/* or 62px */
+
+color: #212121;
+
+
+
+/* Видео */
+
+position: absolute;
+width: 350px;
+height: 123px;
+left: 925px;
+top: 5200px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 56px;
+line-height: 110%;
+/* or 62px */
+
+color: #212121;
+
+
+
+/* VIDEO 5 */
+
+position: absolute;
+width: 350px;
+height: 250px;
+left: 925px;
+top: 5310px;
+
+
+
+/* Rectangle 42 */
+
+position: absolute;
+width: 350px;
+height: 250px;
+left: 925px;
+top: 5310px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 40px rgba(151, 151, 151, 0.25);
+border-radius: 6px;
+
+
+/* image 20 */
+
+position: absolute;
+visibility: hidden;
+width: 350px;
+height: 250px;
+left: 925px;
+top: 5310px;
+
+background: url(image);
+border-radius: 6px;
+
+
+/* image 26 */
+
+position: absolute;
+width: 350px;
+height: 250px;
+left: 925px;
+top: 5310px;
+
+background: url(image);
+border-radius: 8px;
+
+
+/* ФОТО */
+
+position: absolute;
+width: 730px;
+height: 450px;
+left: 165px;
+top: 5310px;
+
+
+
+/* Rectangle 42 */
+
+position: absolute;
+width: 730px;
+height: 450px;
+left: 165px;
+top: 5310px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 40px rgba(151, 151, 151, 0.25);
+border-radius: 6px;
+
+
+/* image 19 */
+
+position: absolute;
+visibility: hidden;
+width: 730px;
+height: 450px;
+left: 165px;
+top: 5310px;
+
+background: url(image);
+border-radius: 6px;
+
+
+/* image 25 */
+
+position: absolute;
+width: 730px;
+height: 450px;
+left: 165px;
+top: 5310px;
+
+background: url(image);
+border-radius: 8px;
+
+
+/* VIDEO 2 */
+
+position: absolute;
+width: 350px;
+height: 326px;
+left: 545px;
+top: 4070px;
+
+
+
+/* Rectangle 42 */
+
+position: absolute;
+width: 350px;
+height: 250px;
+left: 545px;
+top: 4070px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 40px rgba(151, 151, 151, 0.25);
+border-radius: 6px;
+
+
+/* Rectangle 34 */
+
+position: absolute;
+width: 350px;
+height: 250px;
+left: 545px;
+top: 4070px;
+
+background: url(image.png);
+border-radius: 8px;
+
+
+/* Ellipse 6 */
+
+position: absolute;
+width: 90px;
+height: 90px;
+left: 675px;
+top: 4150px;
+
+background: #FFFFFF;
+
+
+/* Polygon 1 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 740px;
+top: 4175px;
+
+background: #EE1B24;
+transform: rotate(90deg);
+
+
+/* Видео ЖивиГромче в обзоре Юрия Рыбакова, известного строителя-блогера */
+
+position: absolute;
+width: 350px;
+height: 56px;
+left: 545px;
+top: 4340px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 10px;
+line-height: 140%;
+/* or 14px */
+text-transform: uppercase;
+
+color: #EE1B24;
+
+
+
+/* VIDEO 3 */
+
+position: absolute;
+width: 350px;
+height: 326px;
+left: 925px;
+top: 4070px;
+
+
+
+/* Rectangle 42 */
+
+position: absolute;
+width: 350px;
+height: 250px;
+left: 925px;
+top: 4070px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 40px rgba(151, 151, 151, 0.25);
+border-radius: 6px;
+
+
+/* СТАТЬЯ Преимущества хвойной звукоизоляции при ремонте квартиры */
+
+position: absolute;
+width: 350px;
+height: 56px;
+left: 925px;
+top: 4340px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 10px;
+line-height: 140%;
+/* or 14px */
+text-transform: uppercase;
+
+color: #EE1B24;
+
+
+
+/* image 18 */
+
+position: absolute;
+visibility: hidden;
+width: 350px;
+height: 250px;
+left: 925px;
+top: 4070px;
+
+background: url(image);
+border-radius: 6px;
+
+
+/* image 27 */
+
+position: absolute;
+width: 350px;
+height: 250px;
+left: 925px;
+top: 4070px;
+
+background: url(image);
+border-radius: 8px;
+
+
+/* Ellipse 7 */
+
+position: absolute;
+width: 12px;
+height: 12px;
+left: 524px;
+top: 5800px;
+
+background: #E0E0E0;
+
+
+/* Ellipse 8 */
+
+position: absolute;
+width: 12px;
+height: 12px;
+left: 544px;
+top: 5800px;
+
+background: #E0E0E0;
+
+
+/* Ellipse 9 */
+
+position: absolute;
+width: 12px;
+height: 12px;
+left: 504px;
+top: 5800px;
+
+background: #EE1B24;
+
+
+/* Ellipse 10 */
+
+position: absolute;
+width: 12px;
+height: 12px;
+left: 1094px;
+top: 5600px;
+
+background: #E0E0E0;
+
+
+/* Ellipse 11 */
+
+position: absolute;
+width: 12px;
+height: 12px;
+left: 1114px;
+top: 5600px;
+
+background: #E0E0E0;
+
+
+/* Ellipse 12 */
+
+position: absolute;
+width: 12px;
+height: 12px;
+left: 1074px;
+top: 5600px;
+
+background: #EE1B24;
+
+
+/* CJY */
+
+position: absolute;
+width: 1440px;
+height: 600px;
+left: 0px;
+top: 4510px;
+
+background: #EBF8FF;
+
+
+/* Активно отдыхайте, проводите время с семьей и получите больше полезного времени, благодаря глубокому сну с ЖивиГромче! Соседи вам больше не помешают! */
+
+position: absolute;
+width: 585px;
+height: 121px;
+left: 165px;
+top: 310px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 23px;
+line-height: 130%;
+/* or 30px */
+
+color: #212121;
+
+
+
+/* Крепкий сон только с ЖивиГромче */
+
+position: absolute;
+width: 585px;
+height: 116px;
+left: 165px;
+top: 160px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 54px;
+line-height: 100%;
+/* or 54px */
+
+color: #212121;
+
+
+
+/* image 35 */
+
+position: absolute;
+width: 832px;
+height: 600px;
+left: 1582px;
+top: 0px;
+
+background: url(image);
+opacity: 0.8;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Rectangle 64 */
+
+position: absolute;
+width: 525px;
+height: 600px;
+left: 750px;
+top: 0px;
+
+background: linear-gradient(90deg, #EBF8FF 0%, rgba(235, 248, 255, 0) 100%);
+
+
+/* ГОТОВЫЕ РЕШЕНИЯ */
+
+position: absolute;
+visibility: hidden;
+width: 1440px;
+height: 800px;
+left: 0px;
+top: 5970px;
+
+
+
+/* Rectangle 28 */
+
+position: absolute;
+width: 1440px;
+height: 1200px;
+left: 0px;
+top: 0px;
+
+background: #F8F8F8;
+
+
+/* Инструкции */
+
+position: absolute;
+width: 1110px;
+height: 250px;
+left: 165px;
+top: 0px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 56px;
+line-height: 68px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #212121;
+
+
+
+/* Инструкция 1 */
+
+position: absolute;
+width: 350px;
+height: 160px;
+left: 165px;
+top: 250px;
+
+
+
+/* Background block */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 350px;
+height: 160px;
+left: 165px;
+top: 250px;
+
+background: #FFFFFF;
+border-radius: 8px;
+
+
+/* PDF */
+
+position: absolute;
+width: 70px;
+height: 90px;
+left: 200px;
+top: 280px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 20px rgba(92, 92, 92, 0.25);
+
+
+/* Rectangle 53 */
+
+position: absolute;
+width: 99.3px;
+height: 47.96px;
+left: -6.06px;
+top: 41.16px;
+
+background: #EE1B24;
+transform: rotate(16.88deg);
+
+
+/* ПОЛ */
+
+position: absolute;
+width: 64px;
+height: 12px;
+left: 5px;
+top: 6px;
+
+font-family: 'Rodchenko';
+font-style: normal;
+font-weight: 400;
+font-size: 9px;
+line-height: 110%;
+/* or 10px */
+text-transform: uppercase;
+
+color: #EE1B24;
+
+
+
+/* ИНСТРУКЦИЯ */
+
+position: absolute;
+width: 41px;
+height: 12px;
+left: 5px;
+top: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 4.5px;
+line-height: 110%;
+/* or 5px */
+
+color: #000000;
+
+
+
+/* imgpsh_fullsize_anim 4 */
+
+position: absolute;
+width: 45px;
+height: 21px;
+left: 14px;
+top: 62px;
+
+background: url(imgpsh_fullsize_anim);
+
+
+/* ПОЛ - Решения для пола #ЖивиГромче! Скачайте полную инструкцию в PDF. Размер - 12 Mb. */
+
+position: absolute;
+width: 190px;
+height: 90px;
+left: 295px;
+top: 280px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 13px;
+line-height: 120%;
+/* or 16px */
+display: flex;
+align-items: center;
+
+color: #EE1B24;
+
+
+
+/* Инструкция 4 */
+
+position: absolute;
+width: 350px;
+height: 160px;
+left: 165px;
+top: 460px;
+
+
+
+/* Background block */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 350px;
+height: 160px;
+left: 165px;
+top: 460px;
+
+background: #FFFFFF;
+border-radius: 8px;
+
+
+/* PDF */
+
+position: absolute;
+width: 70px;
+height: 90px;
+left: 200px;
+top: 490px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 20px rgba(92, 92, 92, 0.25);
+
+
+/* Rectangle 53 */
+
+position: absolute;
+width: 99.3px;
+height: 47.96px;
+left: -6.06px;
+top: 41.16px;
+
+background: #EE1B24;
+transform: rotate(16.88deg);
+
+
+/* СТЕНА */
+
+position: absolute;
+width: 64px;
+height: 12px;
+left: 5px;
+top: 6px;
+
+font-family: 'Rodchenko';
+font-style: normal;
+font-weight: 400;
+font-size: 9px;
+line-height: 110%;
+/* or 10px */
+text-transform: uppercase;
+
+color: #EE1B24;
+
+
+
+/* ИНСТРУКЦИЯ */
+
+position: absolute;
+width: 41px;
+height: 12px;
+left: 5px;
+top: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 4.5px;
+line-height: 110%;
+/* or 5px */
+
+color: #000000;
+
+
+
+/* imgpsh_fullsize_anim 4 */
+
+position: absolute;
+width: 45px;
+height: 21px;
+left: 14px;
+top: 62px;
+
+background: url(imgpsh_fullsize_anim);
+
+
+/* СТЕНА - Решения для стен #ЖивиГромче! Скачайте полную инструкцию в PDF. Размер - 12 Mb. */
+
+position: absolute;
+width: 190px;
+height: 90px;
+left: 295px;
+top: 490px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 13px;
+line-height: 120%;
+/* or 16px */
+display: flex;
+align-items: center;
+
+color: #EE1B24;
+
+
+
+/* Инструкция 2 */
+
+position: absolute;
+width: 350px;
+height: 160px;
+left: 545px;
+top: 250px;
+
+
+
+/* Background block */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 350px;
+height: 160px;
+left: 545px;
+top: 250px;
+
+background: #FFFFFF;
+border-radius: 8px;
+
+
+/* PDF */
+
+position: absolute;
+width: 70px;
+height: 90px;
+left: 580px;
+top: 280px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 20px rgba(92, 92, 92, 0.25);
+
+
+/* Rectangle 53 */
+
+position: absolute;
+width: 99.3px;
+height: 47.96px;
+left: -6.06px;
+top: 41.16px;
+
+background: #EE1B24;
+transform: rotate(16.88deg);
+
+
+/* Потолок */
+
+position: absolute;
+width: 64px;
+height: 12px;
+left: 5px;
+top: 6px;
+
+font-family: 'Rodchenko';
+font-style: normal;
+font-weight: 400;
+font-size: 9px;
+line-height: 110%;
+/* or 10px */
+text-transform: uppercase;
+
+color: #EE1B24;
+
+
+
+/* ИНСТРУКЦИЯ */
+
+position: absolute;
+width: 41px;
+height: 12px;
+left: 5px;
+top: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 4.5px;
+line-height: 110%;
+/* or 5px */
+
+color: #000000;
+
+
+
+/* imgpsh_fullsize_anim 4 */
+
+position: absolute;
+width: 45px;
+height: 21px;
+left: 14px;
+top: 62px;
+
+background: url(imgpsh_fullsize_anim);
+
+
+/* ПОТОЛОК - Решения для потолка #ЖивиГромче! Скачайте полную инструкцию в PDF. Размер - 12 Mb. */
+
+position: absolute;
+width: 190px;
+height: 90px;
+left: 675px;
+top: 280px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 13px;
+line-height: 120%;
+/* or 16px */
+display: flex;
+align-items: center;
+
+color: #EE1B24;
+
+
+
+/* Инструкция 3 */
+
+position: absolute;
+width: 350px;
+height: 160px;
+left: 925px;
+top: 250px;
+
+
+
+/* Background block */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 350px;
+height: 160px;
+left: 925px;
+top: 250px;
+
+background: #FFFFFF;
+border-radius: 8px;
+
+
+/* PDF */
+
+position: absolute;
+width: 70px;
+height: 90px;
+left: 960px;
+top: 280px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 20px rgba(92, 92, 92, 0.25);
+
+
+/* Rectangle 53 */
+
+position: absolute;
+width: 99.3px;
+height: 47.96px;
+left: -6.06px;
+top: 41.16px;
+
+background: #EE1B24;
+transform: rotate(16.88deg);
+
+
+/* перегородка */
+
+position: absolute;
+width: 64px;
+height: 12px;
+left: 5px;
+top: 6px;
+
+font-family: 'Rodchenko';
+font-style: normal;
+font-weight: 400;
+font-size: 9px;
+line-height: 110%;
+/* or 10px */
+text-transform: uppercase;
+
+color: #EE1B24;
+
+
+
+/* ИНСТРУКЦИЯ */
+
+position: absolute;
+width: 41px;
+height: 12px;
+left: 5px;
+top: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 4.5px;
+line-height: 110%;
+/* or 5px */
+
+color: #000000;
+
+
+
+/* imgpsh_fullsize_anim 4 */
+
+position: absolute;
+width: 45px;
+height: 21px;
+left: 14px;
+top: 62px;
+
+background: url(imgpsh_fullsize_anim);
+
+
+/* ПЕРЕГОРОДКА - Решения для перегородок #ЖивиГромче! Скачайте полную инструкцию в PDF. Размер - 12 Mb. */
+
+position: absolute;
+width: 190px;
+height: 90px;
+left: 1055px;
+top: 280px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 13px;
+line-height: 120%;
+/* or 16px */
+display: flex;
+align-items: center;
+
+color: #EE1B24;
+
+
+
+/* image 52 */
+
+position: absolute;
+width: 0px;
+height: 0px;
+left: 987px;
+top: 1949px;
+
+background: url(image);
+
+
+/* КОНТАКТЫ */
+
+position: absolute;
+visibility: hidden;
+width: 1126px;
+height: 342px;
+left: 149px;
+top: 6770px;
+
+
+
+/* Rectangle 44 */
+
+position: absolute;
+width: 1110px;
+height: 1px;
+left: 165px;
+top: 6956px;
+
+background: #F0F0F0;
+
+
+/* Все права защищены. При использовании материалов — ссылка обязательна. Официальный информационный сайт хвойной подложки. Общество с Ограниченной Ответственностью «СЕЛЕНА». ИНН 7729715514. Политика компании в отношении персональных данных Соглашение на обработку персональных данных */
+
+position: absolute;
+width: 445px;
+height: 106px;
+left: 830px;
+top: 7006px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 11px;
+line-height: 140%;
+/* or 15px */
+
+color: #999999;
+
+
+
+/* Компания ООО «СЕЛЕНА» (бренд “СОЛНЦЕ”) — официальный дистрибьютор STEICO© и ОАО "Мозырский деревообрабатывающий комбинат" в Российской Федерации. Адрес: Москва, ул. Адмирала Макарова, д. 8, стр. 1 Телефон: +7 (495) 380-10-62 Email: solntse@solntse.ru www.solntse.ru */
+
+position: absolute;
+width: 445px;
+height: 106px;
+left: 355px;
+top: 7006px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 11px;
+line-height: 140%;
+/* or 15px */
+
+color: #999999;
+
+
+
+/* image 22 */
+
+position: absolute;
+width: 150px;
+height: 104px;
+left: 149px;
+top: 6998px;
+
+background: url(image);
+
+
+/* УСЛОВНЫЕ ОБОЗНАЧЕНИЯ И ОГРАНИЧЕНИЯ Компания ООО «СЕЛЕНА» (бренд “СОЛНЦЕ”) — официальный дистрибьютор STEICO© и ОАО "Мозырский деревообрабатывающий комбинат" в Российской Федерации. Адрес: Москва, ул. Адмирала Макарова, д. 8, стр. 1 Телефон: +7 (495) 380-10-62 Email: solntse@solntse.ru www.solntse.ru */
+
+position: absolute;
+width: 540px;
+height: 106px;
+left: 165px;
+top: 6770px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 8px;
+line-height: 140%;
+/* or 11px */
+
+color: #999999;
+
+
+
+/* УСЛОВНЫЕ ОБОЗНАЧЕНИЯ И ОГРАНИЧЕНИЯ Компания ООО «СЕЛЕНА» (бренд “СОЛНЦЕ”) — официальный дистрибьютор STEICO© и ОАО "Мозырский деревообрабатывающий комбинат" в Российской Федерации. Адрес: Москва, ул. Адмирала Макарова, д. 8, стр. 1 Телефон: +7 (495) 380-10-62 Email: solntse@solntse.ru www.solntse.ru */
+
+position: absolute;
+width: 540px;
+height: 106px;
+left: 735px;
+top: 6770px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 8px;
+line-height: 140%;
+/* or 11px */
+
+color: #999999;
+
+
+
+/* Rectangle 75 */
+
+position: absolute;
+width: 1440px;
+height: 520px;
+left: 0px;
+top: 830px;
+
+background: #F9F9F9;
+
+
+/* 1 */
+
+position: absolute;
+width: 255px;
+height: 275px;
+left: 165px;
+top: 940px;
+
+
+
+/* Rectangle 74 */
+
+position: absolute;
+width: 255px;
+height: 255px;
+left: 165px;
+top: 940px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 20px rgba(200, 200, 200, 0.25);
+border-radius: 6px;
+
+
+/* image 56 */
+
+position: absolute;
+width: 240px;
+height: 211.76px;
+left: 173px;
+top: 950px;
+
+background: url(image);
+border-radius: 6px;
+
+
+/* Столы Обеденные и журнальные столы */
+
+position: absolute;
+width: 255px;
+height: 85px;
+left: 165px;
+top: 1130px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 90%;
+/* or 18px */
+text-align: center;
+
+color: #212121;
+
+
+
+/* 2 */
+
+position: absolute;
+width: 255px;
+height: 275px;
+left: 450px;
+top: 940px;
+
+
+
+/* Rectangle 74 */
+
+position: absolute;
+width: 255px;
+height: 255px;
+left: 450px;
+top: 940px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 20px rgba(200, 200, 200, 0.25);
+border-radius: 6px;
+
+
+/* image 57 */
+
+position: absolute;
+width: 180px;
+height: 159px;
+left: 488px;
+top: 977px;
+
+background: url(image);
+
+
+/* Консоли Пристенные консоли */
+
+position: absolute;
+width: 255px;
+height: 85px;
+left: 450px;
+top: 1130px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 90%;
+/* or 18px */
+text-align: center;
+
+color: #212121;
+
+
+
+/* 3 */
+
+position: absolute;
+width: 255px;
+height: 275px;
+left: 735px;
+top: 940px;
+
+
+
+/* Rectangle 74 */
+
+position: absolute;
+width: 255px;
+height: 255px;
+left: 735px;
+top: 940px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 20px rgba(200, 200, 200, 0.25);
+border-radius: 6px;
+
+
+/* image 58 */
+
+position: absolute;
+width: 180px;
+height: 159px;
+left: 773px;
+top: 971px;
+
+background: url(image);
+
+
+/* Стулья Стулья для обеденных столов */
+
+position: absolute;
+width: 255px;
+height: 85px;
+left: 735px;
+top: 1130px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 90%;
+/* or 18px */
+text-align: center;
+
+color: #212121;
+
+
+
+/* 4 */
+
+position: absolute;
+width: 255px;
+height: 275px;
+left: 1020px;
+top: 940px;
+
+
+
+/* Rectangle 74 */
+
+position: absolute;
+width: 255px;
+height: 255px;
+left: 1020px;
+top: 940px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 20px rgba(200, 200, 200, 0.25);
+border-radius: 6px;
+
+
+/* image 59 */
+
+position: absolute;
+width: 180px;
+height: 159px;
+left: 1058px;
+top: 971px;
+
+background: url(image);
+
+
+/* Барные стулья Барные стулья различного дизайна */
+
+position: absolute;
+width: 255px;
+height: 85px;
+left: 1020px;
+top: 1130px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 90%;
+/* or 18px */
+text-align: center;
+
+color: #212121;
+
+
+
+/* СЕТКА 5 */
+
+position: absolute;
+width: 1275px;
+height: 500px;
+left: 0px;
+top: 1480px;
+
+
+
+/* каталог cattelan BOULEVARD Argile DriveBoulevard — это дизайнерский обеденный стол с обезоруживающей простотой. Он вписывается в жилую обстановку с легкостью и современным шармом. Но присмотревшись повнимательнее, сразу замечаешь богатство деталей и кропотливую работу. Ножки имеют вертикальную полость, усиленную сложной лакированной отделкой, выбранной из различных интенсивных или ярких оттенков. */
+
+position: absolute;
+width: 540px;
+height: 500px;
+left: 735px;
+top: 1480px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 54px;
+line-height: 90%;
+/* or 49px */
+display: flex;
+align-items: center;
+letter-spacing: -0.01em;
+text-transform: capitalize;
+
+color: #212121;
+
+
+
+/* image 55 */
+
+position: absolute;
+width: 610px;
+height: 500px;
+left: 0px;
+top: 1480px;
+
+background: url(image);
+
+
+/* СЕТКА 6 */
+
+position: absolute;
+width: 1275px;
+height: 500px;
+left: 165px;
+top: 2110px;
+
+
+
+/* коллекции cattelan BOULEVARD Argile DriveBoulevard — это дизайнерский обеденный стол с обезоруживающей простотой. Он вписывается в жилую обстановку с легкостью и современным шармом. Но присмотревшись повнимательнее, сразу замечаешь богатство деталей и кропотливую работу. Ножки имеют вертикальную полость, усиленную сложной лакированной отделкой, выбранной из различных интенсивных или ярких оттенков. */
+
+position: absolute;
+width: 540px;
+height: 500px;
+left: 165px;
+top: 2110px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 54px;
+line-height: 90%;
+/* or 49px */
+display: flex;
+align-items: center;
+letter-spacing: -0.01em;
+text-transform: capitalize;
+
+color: #212121;
+
+
+
+/* image 55 */
+
+position: absolute;
+width: 610px;
+height: 500px;
+left: 830px;
+top: 2110px;
+
+background: url(image);
+
+
+/* cattelanmoscow */
+
+position: absolute;
+width: 1110px;
+height: 95px;
+left: 165px;
+top: 1268px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 100px;
+line-height: 90%;
+/* or 90px */
+display: flex;
+align-items: center;
+text-transform: lowercase;
+
+color: #FFFFFF;
+
+
+
+/* Видео блок */
+
+position: absolute;
+width: 1440px;
+height: 600px;
+left: 0px;
+top: 2830px;
+
+
+
+/* Rectangle 81 */
+
+position: absolute;
+width: 1440px;
+height: 600px;
+left: 0px;
+top: 2830px;
+
+background: #D9D9D9;
+
+
+/* image 68 */
+
+position: absolute;
+width: 1440px;
+height: 600px;
+left: 0px;
+top: 2830px;
+
+background: url(image.png);
+
+
+/* Новое от cattelan BOULEVARD Argile DriveBoulevard — это дизайнерский обеденный стол с обезоруживающей простотой. Он вписывается в жилую обстановку с легкостью и современным шармом. */
+
+position: absolute;
+width: 540px;
+height: 400px;
+left: 165px;
+top: 3430px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 54px;
+line-height: 90%;
+/* or 49px */
+display: flex;
+align-items: center;
+letter-spacing: -0.01em;
+text-transform: capitalize;
+
+color: #212121;
+
+
+
+/* Блог cattelan BOULEVARD Argile DriveBoulevard — это дизайнерский обеденный стол с обезоруживающей простотой. Он вписывается в жилую обстановку с легкостью и современным шармом. */
+
+position: absolute;
+width: 540px;
+height: 500px;
+left: 165px;
+top: 4430px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 54px;
+line-height: 90%;
+/* or 49px */
+display: flex;
+align-items: center;
+letter-spacing: -0.01em;
+text-transform: capitalize;
+
+color: #212121;
+
+
+
+/* Новая консоль Dynasty уже доступная для заказа */
+
+position: absolute;
+width: 350px;
+height: 169px;
+left: 165px;
+top: 4880px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 30px;
+line-height: 100%;
+/* or 30px */
+letter-spacing: -0.01em;
+text-transform: capitalize;
+
+color: #212121;
+
+
+
+/* Скидка 25% на стол Cattelan Italia */
+
+position: absolute;
+width: 350px;
+height: 169px;
+left: 545px;
+top: 4880px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 30px;
+line-height: 100%;
+/* or 30px */
+letter-spacing: -0.01em;
+text-transform: capitalize;
+
+color: #212121;
+
+
+
+/* Cattelan Italia представила новый каталог 2023 */
+
+position: absolute;
+width: 350px;
+height: 169px;
+left: 925px;
+top: 4880px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 30px;
+line-height: 100%;
+/* or 30px */
+letter-spacing: -0.01em;
+
+color: #212121;
+
+
+
+/* Информация Каталог Коллекции Блог Скачать О нас Контакты */
+
+position: absolute;
+width: 160px;
+height: 127px;
+left: 165px;
+top: 5290px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 160%;
+/* or 19px */
+
+color: #919191;
+
+
+
+/* Информация Как заказать Образцы ткани и кожи Образцы материалов Новости и акции */
+
+position: absolute;
+width: 160px;
+height: 127px;
+left: 355px;
+top: 5290px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 160%;
+/* or 19px */
+
+color: #919191;
+
+
+
+/* Контактная информация Адрес: Москва, пр. Вернадского, 94/5 Email: cattelan.msk@gmail.com Телефон: +7 (985) 342 02 25 */
+
+position: absolute;
+width: 350px;
+height: 127px;
+left: 545px;
+top: 5290px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 160%;
+/* or 19px */
+
+color: #919191;
+
+
+
+/* +7 (985) 342-02-25 */
+
+position: absolute;
+width: 350px;
+height: 127px;
+left: 925px;
+top: 5290px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 160%;
+/* or 29px */
+text-align: right;
+
+color: #919191;
+
+
+
+/* file-icons:telegram */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1251px;
+top: 5341px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 7.92%;
+bottom: 7.91%;
+
+background: #919191;
+
+
+/* akar-icons:instagram-fill */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1220px;
+top: 5341px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 4.17%;
+right: 4.17%;
+top: 4.17%;
+bottom: 4.17%;
+
+background: #919191;
+
+
+/* image 69 */
+
+position: absolute;
+width: 1275px;
+height: 600px;
+left: 165px;
+top: 3830px;
+
+background: url(image.png);
+
+
+/* DYNASTY */
+
+position: absolute;
+width: 1070px;
+height: 124px;
+left: 205px;
+top: 3890px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 120px;
+line-height: 90%;
+/* or 108px */
+letter-spacing: 0.04em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
